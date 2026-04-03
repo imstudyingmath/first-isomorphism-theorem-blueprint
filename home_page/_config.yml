@@ -22,10 +22,10 @@ title: first isomorphism theorem
 #email: your-email@example.com
 description: by user
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://adachishingo.github.io/first-isomorphism-theorem-blueprint" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://imstudyingmath.github.io/first-isomorphism-theorem-blueprint" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
-github_username: adachishingo
-repository: adachishingo/first-isomorphism-theorem-blueprint
+github_username: imstudyingmath
+repository: imstudyingmath/first-isomorphism-theorem-blueprint
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0 
