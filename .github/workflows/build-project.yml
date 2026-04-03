@@ -47,7 +47,7 @@ jobs:
 
       - name: Update dependencies
         run: |
-          ~/.elan/bin/lake update
+          # ~/.elan/bin/lake update
           ~/.elan/bin/lake exe cache get
 
       - name: Install and configure Lean, and get mathlib cache
